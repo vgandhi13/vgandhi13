@@ -44,11 +44,11 @@ Databases:
 
 ## 🌱 Currently Learning
 
-[Share what you are currently learning or exploring to showcase your dedication to continuous learning and improvement.]
+[I am current focusing on clouding development and learning more about these services particularly]
 
-- [Topic 1]
-- [Topic 2]
-- [Topic 3]
+- [Amazon Web Services]
+- [Google Cloud Services]
+- [Microsoft Azure]
 
 ## 💼 Work Experience
 
