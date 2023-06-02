@@ -74,7 +74,7 @@ Databases:
 
 [Add a GitHub stats section to display your GitHub activity and contributions.]
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-vgandhi13&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vgandhi13&show_icons=true&theme=dark)
 
 ## 🌐 Connect with Me
 
