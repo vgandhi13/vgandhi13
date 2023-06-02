@@ -44,18 +44,18 @@
 
 [Add a GitHub stats section to display your GitHub activity and contributions.]
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-vgandhi13&show_icons=true&theme=dark)
 
 ## 🌐 Connect with Me
 
 [Add links to your social media profiles, personal website, or any other platforms where you want to connect with others.]
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide=html)
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vgandhi13&layout=compact&hide=html)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=vgandhi13)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vgandhi13)
 <!-- WakaTime Stats -->
 <!-- Replace `your-username` with your GitHub username -->
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-username)](https://wakatime.com/@your-username)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-username)](https://wakatime.com/@vgandhi13)
 
 
 [LinkedIn](https://www.linkedin.com/in/your-profile)
