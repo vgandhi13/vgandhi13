@@ -50,6 +50,14 @@
 
 [Add links to your social media profiles, personal website, or any other platforms where you want to connect with others.]
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide=html)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username)
+<!-- WakaTime Stats -->
+<!-- Replace `your-username` with your GitHub username -->
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-username)](https://wakatime.com/@your-username)
+
+
 [LinkedIn](https://www.linkedin.com/in/your-profile)
 [Twitter](https://twitter.com/your-handle)
 [Personal Website](https://www.yourwebsite.com)
