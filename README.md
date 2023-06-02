@@ -1,6 +1,6 @@
 # Hi there, I'm Varun! 👋
 
-[I am a computer science and math student at the University of Massachusetts Amherst. I am also minoring in Business.]
+I am a computer science and math student at the University of Massachusetts Amherst. I am also minoring in Business.
 
 ## 🧑‍💻 Technologies and Tools
 
@@ -44,7 +44,7 @@ Databases:
 
 ## 🌱 Currently Learning
 
-[I am current focusing on clouding development and learning more about these services particularly]
+I am current focusing on clouding development and learning more about these services particularly
 
 - [Amazon Web Services]
 - [Google Cloud Services]
