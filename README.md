@@ -58,9 +58,9 @@ I am current focusing on clouding development and learning more about these serv
 
 [Highlight some of your notable projects. Include project names, descriptions, and links to their repositories or live demos.]
 
-1. [Project 1 Name](link)
+1. Binary Buddy Allocator 
    - Description: [Brief description of the project]
-   - Technologies used: [List of technologies]
+   - Technologies used: C, C++, MakeFile
 
 2. [Project 2 Name](link)
    - Description: [Brief description of the project]
