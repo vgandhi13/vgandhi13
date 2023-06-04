@@ -1,6 +1,6 @@
 # Hi there, I'm Varun! 👋
 
-I am a computer science and math student at the University of Massachusetts Amherst. I am also minoring in Business.
+I am a computer science student at the University of Massachusetts Amherst. I am also minoring in Business.
 
 ## 🧑‍💻 Technologies and Tools
 
@@ -19,7 +19,6 @@ Languages:
 Frameworks:
 &nbsp;
 &nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)&nbsp;
@@ -46,20 +45,22 @@ Databases:
 
 I am current focusing on clouding development and learning more about these services particularly
 
-- [Amazon Web Services]
-- [Google Cloud Services]
-- [Microsoft Azure]
+- Amazon Web Services
+- Google Cloud Services
+- Microsoft Azure
 
 ## 💼 Work Experience
 
-[Provide a summary of your relevant work experience. Mention the companies you have worked for, your roles, and key responsibilities.]
+
 
 ## 🚀 Projects
 
-[Highlight some of your notable projects. Include project names, descriptions, and links to their repositories or live demos.]
-
 1. Binary Buddy Allocator 
-   - Description: [Brief description of the project]
+   - Description: 
+   • Created a memory allocator which made the use of recursive binary splitting of free memory regions in the heap into halves
+   until a block of requested size is found. Coalesced free regions in heap using a similar technique when memory was freed.
+   • Designed a Binary Tree ADT using structs where each node stored a pointer to an offset of the heap memory.
+   • Implemented recursive DFS algosto traverse through the binary tree and find free nodesfrom heap for memory allocation.
    - Technologies used: C, C++, MakeFile
 
 2. [Project 2 Name](link)
