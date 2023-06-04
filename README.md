@@ -78,11 +78,8 @@ I am current focusing on clouding development and learning more about these serv
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vgandhi13&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vgandhi13&layout=compact&hide=html&theme=dark)
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=vgandhi13&theme=dark)
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vgandhi13)](https://wakatime.com/@vgandhi13&theme=dark)
 
 ## 🌐 Connect with Me
-
-[Add links to your social media profiles, personal website, or any other platforms where you want to connect with others.]
 
 [LinkedIn](https://www.linkedin.com/in/your-profile)
 [Twitter](https://twitter.com/your-handle)
