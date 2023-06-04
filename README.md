@@ -4,7 +4,6 @@ I am a computer science student at the University of Massachusetts Amherst. I am
 
 ## 🧑‍💻 Technologies and Tools
 
-### 🛠 &nbsp;Tech Stack
 Languages: 
 &nbsp;
 &nbsp;
