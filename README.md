@@ -54,7 +54,7 @@ I am current focusing on clouding development and learning more about these serv
 
 ## 🚀 Projects
 
-1. [Binary Buddy Allocator]((https://github.com/vgandhi13/Extension-of-Memory-Allocator---Binary-Buddy-Allocator)
+1. [Binary Buddy Allocator]([link](https://github.com/vgandhi13/Extension-of-Memory-Allocator---Binary-Buddy-Allocator))
    - Description: 
    • Created a memory allocator which made the use of recursive binary splitting of free memory regions in the heap into halves
    until a block of requested size is found. Coalesced free regions in heap using a similar technique when memory was freed.
@@ -62,7 +62,7 @@ I am current focusing on clouding development and learning more about these serv
    • Implemented recursive DFS algosto traverse through the binary tree and find free nodesfrom heap for memory allocation.
    - Technologies used: C, C++, MakeFile
 
-2. [Project 2 Name](link)
+2. [Project 2 Name]([link](https://github.com/vgandhi13/Extension-of-Memory-Allocator---Binary-Buddy-Allocator))
    - Description: [Brief description of the project]
    - Technologies used: [List of technologies]
 
