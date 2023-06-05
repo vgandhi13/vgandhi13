@@ -54,7 +54,7 @@ I am current focusing on clouding development and learning more about these serv
 
 ## 🚀 Projects
 
-1. Binary Buddy Allocator 
+1. [Binary Buddy Allocator](link)
    - Description: 
    • Created a memory allocator which made the use of recursive binary splitting of free memory regions in the heap into halves
    until a block of requested size is found. Coalesced free regions in heap using a similar technique when memory was freed.
