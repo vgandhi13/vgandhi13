@@ -62,9 +62,13 @@ I am current focusing on clouding development and learning more about these serv
    • Implemented recursive DFS algosto traverse through the binary tree and find free nodesfrom heap for memory allocation.
    - Technologies used: C, C++, MakeFile
 
-2. [Project 2 Name]([link](https://github.com/vgandhi13/Extension-of-Memory-Allocator---Binary-Buddy-Allocator))
-   - Description: [Brief description of the project]
-   - Technologies used: [List of technologies]
+2. [PunchTime](https://github.com/atdykema/EmployeeTimeTracker-CS320)
+   - Description:
+   • Built an employee time tracking management dashboard using React, HTML and CSS in a scrum team of 9 developers by 
+   constructing methods for large-scale UI components consuming served JSON.
+   • Programmed server-side logic for the portal using NodeJS, Mongoose, and MongoDB and dockerized both client and server.
+   • Created 6 API endpoints and used Postman to test their performance and Axios for frontend-backend data communication.
+   - Technologies used: React, MongoDB, Mongoose, HTML, JavaScript, Express.js, Axios, Docker
 
 ## 📫 How to Reach Me
 
