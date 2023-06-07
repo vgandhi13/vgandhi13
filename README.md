@@ -69,10 +69,10 @@ I am current focusing on clouding development and learning more about these serv
    • Programmed server-side logic for the portal using NodeJS, Mongoose, and MongoDB and dockerized both client and server.
    • Created 6 API endpoints and used Postman to test their performance and Axios for frontend-backend data communication.
    - Technologies used: React, MongoDB, Mongoose, HTML, JavaScript, Express.js, Axios, Docker
-
+<!-- 
 ## 📫 How to Reach Me
 
-[Include your contact information, such as email address, LinkedIn profile, or any other preferred method of communication.]
+[Include your contact information, such as email address, LinkedIn profile, or any other preferred method of communication.] -->
 
 ## 📈 GitHub Stats
 
@@ -82,9 +82,9 @@ I am current focusing on clouding development and learning more about these serv
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vgandhi13&layout=compact&hide=html&theme=dark)
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=vgandhi13&theme=dark)
 
-## 🌐 Connect with Me
+<!-- ## 🌐 Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/your-profile)
 [Twitter](https://twitter.com/your-handle)
 [Personal Website](https://www.yourwebsite.com)
-
+ -->
