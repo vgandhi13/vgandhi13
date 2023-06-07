@@ -1,6 +1,6 @@
 # Hi there, I'm Varun! 👋
 
-I am a computer science student at the University of Massachusetts Amherst. I am also minoring in Business.
+I am a computer science student at the University of Massachusetts Amherst also minoring in Business and Math. Previous semester, I worked in a scrum team of 9 people and built a full stack employee time tracking web app from scratch using the MERN stack. This summer I am working at Adani as a cloud development intern and preparing for the AWS Certified cloud practitioner certification. Additionally, I am also working on my personal website and making a couple of personal projects. In my free time I discover the XV6 operating system and create my own system calls. 
 
 ## 🧑‍💻 Technologies and Tools
 
