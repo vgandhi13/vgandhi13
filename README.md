@@ -42,7 +42,7 @@ Databases:
 
 ## 🌱 Currently Learning
 
-I am current focusing on clouding development and learning more about these services particularly
+I am currently focusing on clouding development and learning more about these services particularly
 
 - Amazon Web Services
 - Google Cloud Services
