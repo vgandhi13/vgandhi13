@@ -1,6 +1,6 @@
 # Hi there, I'm Varun! 👋
 
-I am a computer science student at the University of Massachusetts Amherst also minoring in Business and Math.
+I am a computer science student at the University of Massachusetts Amherst, minoring in Business and Math.
 
 ## 🧑‍💻 Technologies and Tools
 
