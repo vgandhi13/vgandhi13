@@ -49,8 +49,9 @@ I am currently focusing on clouding development and learning more about these se
 - Microsoft Azure
 
 ## 💼 Work Experience
+1. Adani - Cloud Engineering Intern
 
-
+2. Duck Creek Technologies - Software Engineering Apprentice
 
 ## 🚀 Projects
 
