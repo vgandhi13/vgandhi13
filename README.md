@@ -77,8 +77,6 @@ I am currently focusing on clouding development and learning more about these se
 
 ## 📈 GitHub Stats
 
-[Add a GitHub stats section to display your GitHub activity and contributions.]
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vgandhi13&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vgandhi13&layout=compact&hide=html&theme=dark)
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=vgandhi13&theme=dark)
