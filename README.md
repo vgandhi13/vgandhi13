@@ -78,8 +78,9 @@ I am currently focusing on clouding development and learning more about these se
 [Include your contact information, such as email address, LinkedIn profile, or any other preferred method of communication.] -->
 
 ## 📈 Stats
-
+<p align="left">
 <a href="https://www.leetcode.com/gandhivarun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode_stats" height="30" width="40" /></a>
+</p>
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vgandhi13&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vgandhi13&layout=compact&hide=html&theme=dark)
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=vgandhi13&theme=dark)
