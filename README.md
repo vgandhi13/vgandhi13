@@ -83,6 +83,7 @@ I am currently focusing on clouding development and learning more about these se
   <img width=512 title="Varun's LeetCode Stats" alt="Varun's LeetCode Stats" src="https://leetcode.card.workers.dev/?username=gandhivarun&style=dark&font=Garamond&extension=activity" />
  </a>
 </p>
+![Your Leetcode stats](https://leetcode.card.workers.dev/?username=gandhivarun&style=dark&font=Garamond&extension=activity)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vgandhi13&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vgandhi13&layout=compact&hide=html&theme=dark)
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=vgandhi13&theme=dark)
