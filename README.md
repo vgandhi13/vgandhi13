@@ -2,6 +2,8 @@
 
 I am a computer science student at the University of Massachusetts Amherst. I am minoring in Business and Math.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vgandhi13&label=Profile%20views&color=0e75b6&style=flat" alt="ProfileViews" /> </p>
+
 ## 🧑‍💻 Technologies and Tools
 
 Languages: 
