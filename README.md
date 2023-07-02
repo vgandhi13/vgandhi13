@@ -49,6 +49,8 @@ I am currently focusing on clouding development and learning more about these se
 - Amazon Web Services
 - Google Cloud Services
 - Microsoft Azure
+- Django
+- Rust
 
 ## 💼 Work Experience
 1. Adani - Cloud Software Engineering Intern - (May 2023 - Present)
