@@ -87,7 +87,7 @@ I am currently focusing on clouding development and learning more about these se
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vgandhi13&layout=compact&hide=html&theme=dark)   - line2 -->
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=vgandhi13&theme=dark)
 
-<!-- ## 🌐 Connect with Me
+<!-- ## 🌐 Connect with Me REMOVE THIS
 
 [LinkedIn](https://www.linkedin.com/in/your-profile)
 [Twitter](https://twitter.com/your-handle)
