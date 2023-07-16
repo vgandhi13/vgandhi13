@@ -16,7 +16,7 @@ Languages:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-00599C?style=flat&logo=C%2B%2B&logoColor=white)&nbsp;
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white);
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white)&nbsp;\
 Frameworks:
 &nbsp;
@@ -26,7 +26,8 @@ Frameworks:
 ![ExpressJS](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-339933?style=flat&logo=selenium&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/-Django-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white);
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray);
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=1572B6&logoColor=white)&nbsp;\
 Technologies:
 &nbsp;
