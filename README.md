@@ -16,6 +16,7 @@ Languages:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-00599C?style=flat&logo=C%2B%2B&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white)&nbsp;\
 Frameworks:
 &nbsp;
@@ -25,6 +26,7 @@ Frameworks:
 ![ExpressJS](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-339933?style=flat&logo=selenium&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/-Django-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=1572B6&logoColor=white)&nbsp;\
 Technologies:
 &nbsp;
@@ -37,8 +39,6 @@ Databases:
 &nbsp;
 &nbsp;
 &nbsp;
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=AmazonDynamoDB&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp;
 
@@ -53,7 +53,7 @@ I am currently learning about:
 - Rust
 
 ## 💼 Work Experience
-1. Adani - Cloud Software Engineering Intern - (May 2023 - Present)
+1. Adani - Software Engineering Intern - (May 2023 - Present)
 
 2. Duck Creek Technologies - Software Engineering Apprentice - (Feb 2023 - May 2023)
 
