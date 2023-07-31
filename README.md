@@ -49,8 +49,6 @@ I am currently learning about:
 - Google Cloud Services
 - Microsoft Azure
 - Django
-- Rust
-- XV6 Operating System
 
 ## 💼 Work Experience
 1. Adani - Software Engineering Intern - (May 2023 - Present)
