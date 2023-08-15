@@ -25,7 +25,7 @@ Frameworks:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=nodedotjs&logoColor=white)&nbsp;
 ![ExpressJS](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=white)&nbsp;\
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)&nbsp;\
 Technologies:
 &nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white)&nbsp;
