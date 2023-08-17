@@ -90,9 +90,10 @@ I am currently learning about:
 [Twitter](https://twitter.com/your-handle)
 [Personal Website](https://www.yourwebsite.com)
  -->
-<p>&nbsp;
+<!-- <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vgandhi13&show_icons=true&theme=onedark&locale=en&layout=compact" alt="vgandhi13" />
 </p>
 
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vgandhi13&show_icons=true&theme=gruvbox&locale=en" alt="vgandhi13" /></p>
+ -->
