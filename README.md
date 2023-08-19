@@ -18,7 +18,6 @@ Languages:
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-1572B6?style=flat&logo=SQL&logoColor=1572B6&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=1572B6&logoColor=white)&nbsp;\
 Frameworks:
 &nbsp;
