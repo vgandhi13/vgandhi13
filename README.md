@@ -1,4 +1,4 @@
-# Hi there, I'm Varun!👋
+# Hi there, I'm Varun! 👋
 
 I am a Computer Science major at the University of Massachusetts Amherst with minors in Business and Math. I am currently interning at Adani and in free time, working on a full stack CRUD application called [UMassConnect](https://github.com/vgandhi13/UMassConnect).
 
