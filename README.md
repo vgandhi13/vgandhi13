@@ -52,7 +52,7 @@ I am currently learning about:
 - Django
 
 ## 💼 Work Experience
-1. Adani - Software Engineering Intern - (May 2023 - Present)
+1. Adani - Software Engineering Intern - (May 2023 - Aug 2023)
 
 2. Duck Creek Technologies - Software Engineering Apprentice - (Feb 2023 - May 2023)
 
