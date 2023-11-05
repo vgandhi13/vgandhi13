@@ -64,7 +64,7 @@ I am currently learning about:
    until a block of requested size is found. Coalesced free regions in heap using a similar technique when memory was freed.
    • Designed a Binary Tree ADT using structs where each node stored a pointer to an offset of the heap memory.
    • Implemented recursive DFS algosto traverse through the binary tree and find free nodesfrom heap for memory allocation.
-   - Technologies used: C, C++, MakeFile
+   - Technologies used: C, C++
 
 2. [PunchTime](https://github.com/atdykema/EmployeeTimeTracker-CS320)
    - Description:
