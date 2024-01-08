@@ -1,6 +1,6 @@
 # Hi there, I'm Varun! 👋
 
-I am a Computer Science major at the University of Massachusetts Amherst with minors in Business and Math. Last summer I interned at Adani and currently in my free time, I am working on an AI-powered full-stack application using the LangChain framework.
+I am a Computer Science major at the University of Massachusetts Amherst with minors in Business and Math. Last summer I interned at Adani and currently in my free time, I am working on an AI-powered full-stack application using Firebase, Next.js, and the LangChain framework.
 
 Check out my personal website [here](https://vgandhi13.github.io/Personal-Website/).
 
@@ -47,6 +47,8 @@ Databases:
 I am currently learning about:
 
 - LangChain Framework
+- Firebase
+- Next.js
 - Formal Language Theory
 - Convolutional Neural Networks
 - Siamese Neural Networks
