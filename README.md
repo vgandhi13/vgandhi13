@@ -1,6 +1,6 @@
 # Hi there, I'm Varun! 👋
 
-I am a Computer Science major at the University of Massachusetts Amherst with minors in Business and Math. I am currently interning at Adani and in free time, working on a full-stack CRUD application called [UMassConnect](https://github.com/vgandhi13/UMassConnect).
+I am a Computer Science major at the University of Massachusetts Amherst with minors in Business and Math. Last summer I interned at Adani and currently in my free time, I am working on an AI-powered full-stack application using the LangChain framework.
 
 Check out my personal website [here](https://vgandhi13.github.io/Personal-Website/).
 
@@ -48,7 +48,8 @@ I am currently learning about:
 
 - LangChain Framework
 - Formal Language Theory
-- Theory of Numbers
+- Convolutional Neural Networks
+- Siamese Neural Networks
 - SQL
 
 ## 💼 Work Experience
