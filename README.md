@@ -46,10 +46,10 @@ Databases:
 
 I am currently learning about:
 
-- Amazon Web Services
-- Google Cloud Services
-- Microsoft Azure
-- Django
+- LangChain Framework
+- Formal Language Theory
+- Theory of Numbers
+- SQL
 
 ## 💼 Work Experience
 1. Adani - Software Engineering Intern - (May 2023 - Aug 2023)
