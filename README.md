@@ -85,6 +85,8 @@ I am currently learning about:
 
 [![Your Leetcode stats](https://leetcode.card.workers.dev/?username=gandhivarun&style=dark&font=Garamond&extension=activity)](https://leetcode.com/gandhivarun/)
 
+![](https://leetcard.jacoblin.cool/gandhivarun?ext=heatmap)
+
 <!--![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vgandhi13&show_icons=true&theme=dark)     - line 1
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vgandhi13&layout=compact&hide=html&theme=dark)   - line2 -->
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=vgandhi13&theme=dark)
