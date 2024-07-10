@@ -83,7 +83,7 @@ I am currently learning about:
 
 ## 📈 Stats
 
-[![Your Leetcode stats](https://leetcode.card.workers.dev/?username=gandhivarun&style=dark&font=Garamond&extension=activity)](https://leetcode.com/gandhivarun/)
+<!--[![Your Leetcode stats](https://leetcode.card.workers.dev/?username=gandhivarun&style=dark&font=Garamond&extension=activity)](https://leetcode.com/gandhivarun/)-->
 
 ![](https://leetcard.jacoblin.cool/gandhivarun?ext=heatmap)
 
