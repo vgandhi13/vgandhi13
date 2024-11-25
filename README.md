@@ -1,6 +1,6 @@
 # Hi there, I'm Varun! 👋
 
-I am a Computer Science major at the University of Massachusetts Amherst with minors in Business and Math. Last summer I interned at Adani and currently in my free time, I am working on an AI-powered full-stack application using Firebase, Next.js, and the LangChain framework.
+I am a compsci student at UMass Amherst. This past summer I interned at DXFactor in their backend/data team where I contributed to a Django Rest backend project, and made an end to end data warehouse. Last summer I interned at Adani and currently in my free time, I am working on an AI-powered full-stack application using Firebase, Next.js, and the LangChain framework.
 
 Check out my personal website [here](https://vgandhi13.github.io/Personal-Website/).
 
@@ -46,18 +46,14 @@ Databases:
 
 I am currently learning about:
 
-- LangChain Framework
-- Firebase
-- Next.js
-- Formal Language Theory
-- Convolutional Neural Networks
-- Siamese Neural Networks
-- SQL
+- Natural Language Processing
+- Distributed Systems
+- Robotics
 
 ## 💼 Work Experience
-1. Adani - Software Engineering Intern - (May 2023 - Aug 2023)
-
-2. Duck Creek Technologies - Software Engineering Apprentice - (Feb 2023 - May 2023)
+1. DXFactor LLC - Backend/Data Engineer Intern - (May 2024 - Aug 2024)
+2. Adani - Software Engineering Intern - (May 2023 - Aug 2023)
+3. Duck Creek Technologies - Software Engineering Apprentice - (Feb 2023 - May 2023)
 
 ## 🚀 Projects
 
