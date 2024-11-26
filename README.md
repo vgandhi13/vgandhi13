@@ -1,6 +1,6 @@
 # Hi there, I'm Varun! 👋
 
-I am a compsci student at UMass Amherst. This past summer I interned at DXFactor in their backend/data team where I contributed to a Django Rest backend project, and made an end to end data warehouse. Last summer I interned at Adani and currently in my free time, I am working on an AI-powered full-stack application using Firebase, Next.js, and the LangChain framework.
+I am a compsci student at UMass Amherst. This past summer I interned at DXFactor in their backend/data team where I contributed to their Django Rest backend project, and made an end to end data warehouse. Last summer I interned at Adani and currently in my free time, I am working on an AI-powered full-stack application using Firebase, Next.js, and the LangChain framework.
 
 Check out my personal website [here](https://vgandhi13.github.io/Personal-Website/).
 
