@@ -1,6 +1,6 @@
 # Hi there, I'm Varun! 👋
 
-I am a compsci student at UMass Amherst. This past summer I interned at DXFactor in their backend/data team where I contributed to their Django Rest backend project, and made an end to end data warehouse. Last summer I interned at Adani and currently I am working on a research project where I am working on creating a method to watermark LLMs. I am starting my Master's in CS at UMass this semester on a 100% scholarship.
+I am a compsci student at UMass Amherst. This past summer I interned at DXFactor in their backend/data team where I contributed to their Django Rest backend project, and made an end to end data warehouse. Last summer I interned at Adani and currently I am working on a research project where I am working on creating a method to watermark LLMs. I am starting my Master's in CS at UMass this semester on a full ride scholarship.
 
 Check out my personal website [here](https://vgandhi13.github.io/Personal-Website/).
 
