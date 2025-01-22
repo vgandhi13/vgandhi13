@@ -47,8 +47,8 @@ Databases:
 I am currently learning about:
 
 - Natural Language Processing
-- Distributed Systems
-- Robotics
+- ML Privacy
+- System Defense and Test
 
 ## 💼 Work Experience
 1. DXFactor LLC - Backend/Data Engineer Intern - (May 2024 - Aug 2024)
