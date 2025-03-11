@@ -48,7 +48,7 @@ I am currently learning about:
 
 - Natural Language Processing
 - ML Privacy
-- System Defense and Test
+- Deep Learning
 
 ## 💼 Work Experience
 1. DXFactor LLC - Backend/Data Engineer Intern - (May 2024 - Aug 2024)
