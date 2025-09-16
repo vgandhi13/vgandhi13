@@ -1,6 +1,6 @@
 # Hi there, I'm Varun! 👋
 
-I am a MS CS student at UMass Amherst. I am interested in AI and its alignment, interpretability and systems. I worked as a Machine Learning Engineer intern at Sarvam AI in summer 2025 in their Vision Language Models Team where I worked on OCR of indic languages. Before that, I worked at DXFactor as a Data Engineer Intern.
+I am a Master’s student in Computer Science at UMass Amherst with interests in AI alignment, interpretability, and systems. In Summer 2025, I worked as a Machine Learning Engineer Intern at Sarvam AI in the Vision Language Models team, focusing on OCR for Indic languages. Previously, I interned at DXFactor as a Data Engineer Intern.
 
 Check out my personal website [here](https://vgandhi13.github.io/Personal-Website/).
 
