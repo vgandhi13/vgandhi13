@@ -1,6 +1,6 @@
 # Hi there, I'm Varun! 👋
 
-I am a compsci student at UMass Amherst. This past summer I interned at DXFactor in their backend/data team where I contributed to their Django Rest backend project, and made an end to end data warehouse. Last summer I interned at Adani and currently I am working on a research project where I am working on creating a method to watermark LLMs. I am starting my Master's in CS at UMass this semester on a full ride scholarship. 
+I am a MS CS student at UMass Amherst. I am interested in AI and their alignment, interpretability and systems. I worked as a Machine Learning Engineer intern at Sarvam AI in summer 2025 in their Vision Language Models Team where I worked on OCR of indic languages. Before that, I worked at DXFactor as a Data Engineer Intern.
 
 Check out my personal website [here](https://vgandhi13.github.io/Personal-Website/).
 
@@ -13,14 +13,8 @@ Languages:
 &nbsp;
 &nbsp;
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/-Java-e32802?style=flat&logo=Java&logoColor=orange&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=1572B6&logoColor=white)&nbsp;\
 Frameworks:
 &nbsp;
 &nbsp;
@@ -32,7 +26,6 @@ Technologies:
 &nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)&nbsp;
-![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-3FA037?style=flat&logo=androidstudio&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-FFCA28?style=flat&logo=linux&logoColor=black)&nbsp;\
 Databases:
@@ -46,14 +39,15 @@ Databases:
 
 I am currently learning about:
 
-- Natural Language Processing
-- ML Privacy
+- Mechanistic Interpretability
+- Reinforcement Learning
 - Deep Learning
 
 ## 💼 Work Experience
-1. DXFactor LLC - Backend/Data Engineer Intern - (May 2024 - Aug 2024)
-2. Adani - Software Engineering Intern - (May 2023 - Aug 2023)
-3. Duck Creek Technologies - Software Engineering Apprentice - (Feb 2023 - May 2023)
+1. Sarvam AI - Machine Learning Engineer Intern - (May 2025 - Aug 2025)
+2. DXFactor LLC - Backend/Data Engineer Intern - (May 2024 - Aug 2024)
+3. Adani - Software Engineering Intern - (May 2023 - Aug 2023)
+4. Duck Creek Technologies - Software Engineering Apprentice - (Feb 2023 - May 2023)
 
 ## 🚀 Projects
 
