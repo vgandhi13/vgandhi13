@@ -52,7 +52,14 @@ I am currently learning about:
 
 ## 🚀 Projects
 
-1. [Binary Buddy Allocator](https://github.com/vgandhi13/Extension-of-Memory-Allocator---Binary-Buddy-Allocator)
+1. [GPT-2 Reproduction with Scalable Training Pipeline]((https://github.com/vgandhi13/ReproducingGPT2))  
+   - Description:  
+   • Implemented the GPT-2 architecture from scratch in PyTorch, including causal self-attention (with Flash Attention), residual transformer blocks, tied embeddings, and custom weight initialization inspired by the GPT-2 and GPT-3 papers.  
+   • Built a scalable training pipeline with mixed precision, gradient accumulation, gradient clipping, and cosine learning rate scheduling.  
+   • Added support for Distributed Data Parallel (DDP) multi-GPU training and integrated optimizer configurations separating decay/non-decay parameters, with support for fused AdamW on CUDA.  
+   - Technologies used: Python, PyTorch, Transformers, Distributed Training
+     
+2. [Binary Buddy Allocator](https://github.com/vgandhi13/Extension-of-Memory-Allocator---Binary-Buddy-Allocator)
    - Description: 
    • Created a memory allocator which made the use of recursive binary splitting of free memory regions in the heap into halves
    until a block of requested size is found. Coalesced free regions in heap using a similar technique when memory was freed.
@@ -60,7 +67,7 @@ I am currently learning about:
    • Implemented recursive DFS algosto traverse through the binary tree and find free nodesfrom heap for memory allocation.
    - Technologies used: C, C++
 
-2. [PunchTime](https://github.com/atdykema/EmployeeTimeTracker-CS320)
+3. [PunchTime](https://github.com/atdykema/EmployeeTimeTracker-CS320)
    - Description:
    • Built an employee time tracking management dashboard using React, HTML and CSS in a scrum team of 9 developers by 
    constructing methods for large-scale UI components consuming served JSON.
