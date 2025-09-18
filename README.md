@@ -52,7 +52,7 @@ I am currently learning about:
 
 ## 🚀 Projects
 
-1. [GPT-2 Reproduction with Scalable Training Pipeline]((https://github.com/vgandhi13/ReproducingGPT2))  
+1. [GPT-2 Reproduction with Scalable Training Pipeline](https://github.com/vgandhi13/ReproducingGPT2)  
    - Description:  
    • Implemented the GPT-2 architecture from scratch in PyTorch, including causal self-attention (with Flash Attention), residual transformer blocks, tied embeddings, and custom weight initialization inspired by the GPT-2 and GPT-3 papers.  
    • Built a scalable training pipeline with mixed precision, gradient accumulation, gradient clipping, and cosine learning rate scheduling.  
