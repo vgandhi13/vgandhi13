@@ -2,7 +2,7 @@
 
 I am a Master’s student in Computer Science at UMass Amherst with interests in AI alignment, interpretability, and systems. In Summer 2025, I worked as a Machine Learning Engineer Intern at Sarvam AI in the Vision Language Models team, focusing on OCR for Indic languages. Previously, I interned at DXFactor as a Data Engineer Intern.
 
-Check out my personal website [here](https://vgandhi13.github.io/Personal-Website/).
+Check out my personal website [here](https://vgandhi13.github.io/).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vgandhi13&label=Profile%20views&color=0e75b6&style=flat" alt="ProfileViews" /> </p>
 
